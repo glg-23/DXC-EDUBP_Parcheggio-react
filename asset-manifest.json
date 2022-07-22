@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DXC-EDUBP_Parcheggio-react/static/css/main.69564e16.css",
+    "main.js": "/DXC-EDUBP_Parcheggio-react/static/js/main.959e23c3.js",
+    "static/js/787.edd59a96.chunk.js": "/DXC-EDUBP_Parcheggio-react/static/js/787.edd59a96.chunk.js",
+    "index.html": "/DXC-EDUBP_Parcheggio-react/index.html",
+    "main.69564e16.css.map": "/DXC-EDUBP_Parcheggio-react/static/css/main.69564e16.css.map",
+    "main.959e23c3.js.map": "/DXC-EDUBP_Parcheggio-react/static/js/main.959e23c3.js.map",
+    "787.edd59a96.chunk.js.map": "/DXC-EDUBP_Parcheggio-react/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69564e16.css",
+    "static/js/main.959e23c3.js"
+  ]
+}
