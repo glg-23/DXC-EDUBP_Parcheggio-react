@@ -1,2 +1,7 @@
-# DXC-EDUBP_Parcheggio-react
-Corso REACT JS FUNDAMENTAL - EduBP srl (2022)
+# Parcheggio 
+
+Corso REACT JS FUNDAMENTAL 
+Applicazione realizzata con react per inserimento ed elenco di vetture con controlli sui dati inseriti dall'utente.
+
+EduBP srl
+https://www.edubp.it/
