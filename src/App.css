@@ -1,0 +1,86 @@
+body {
+  background-image: linear-gradient(#002233, #0059b3);
+}
+
+Label {
+  color: white;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+/* HOME */
+.ContainerHome {
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+
+.TitoloHome {
+  color: white;
+  text-align: center;
+  margin: 50px;
+}
+
+.DescrizioneHome {
+  color: white;
+
+}
+
+
+/* FORM */
+.ContainerForm {
+  width: 75%;
+  border: solid 1px white;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  padding-inline: 4vh;
+  padding-top: 2vh;
+  padding-bottom: 3vh;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.TitoloForm {
+  text-align: center;
+  color: white;
+  font-size: 4vh;
+  font-weight: bold;
+}
+
+
+/* ELENCO AUTO */
+.ContainerLista {
+  width: 75%;
+  min-width: fit-content;
+  background-color: white;
+  padding-inline: 2vh;
+  padding-bottom: 1vh;
+  border-radius: 10px;
+  margin-bottom: 10vh;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.TargaPari {
+  background-color: #b3ffb3;
+}
+
+.TargaDispari {
+  background-color: #ff9999;
+}
