@@ -17,3 +17,7 @@ Anteprima:
 EduBP srl
 
 https://www.edubp.it/
+
+-----
+
+![Attestato Corso reactJS EduBP]([http://url/to/img.png](https://github.com/glg-23/EDUBP_Parcheggio-react/blob/main/Gianluigi%20D'Antimi%20-%20EduBP%20-%20Corso%20React%20JS%20Foundamental.jpg))
